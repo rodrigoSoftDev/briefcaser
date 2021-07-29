@@ -1,0 +1,116 @@
+{
+  "main": {
+    "name":"Rodrigo Nahuel Garcia",
+    "description":"Programador fullstack, actualmente trabajando como desarrollador frontend en Cubiq Digital. Estudiante de programacion informatica en UNQ, con diversos conocimientos de tecnologías y freamworks para aplicar en la industria",
+    "image":"profile.jpg",
+    "email": "rodrigosoftdev@gmail.com",
+    "phone": "1169978090",
+    "address":{
+      "street":"Presiente peron",
+      "city":"Quilmes",
+      "zip": "1878"
+    },
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"www.linkedin.com/in/rodrigo-garcia-aa0377210",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/nambersei",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/rodrigoSoftDev",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Instituto La Providencia",
+        "degree":"Bachillerato en economia y gestion de las organizaciones",
+        "graduated":"2007 - 2012"
+      },
+      {
+        "school":"Universidad nacional de Quilmes",
+        "degree":"Tecnicatura en programacion informatica",
+        "graduated":"2016 - Actualidad"
+      }
+    ],
+    "curses":[
+      {
+        "school":"Universidad tecnologica nacional",
+        "degree":"Excel avanzado",
+        "graduated":"2011"
+      },
+      {
+        "school":"Universidad nacional de Quilmes",
+        "degree":"Tecnicatura en reparacion de computadoras",
+        "graduated":"2017"
+      }
+    ],
+    "work":[
+      {
+        "company":"Carrefour",
+        "title":"Cajero",
+        "years":"2013 - 2014",
+        "description":"Puesto de caja."
+      },
+      {
+        "company":"Sistemmas",
+        "title":"Encargado de laboratorio.",
+        "years":"2016 - 2017",
+        "description":"Encargado de reparacion de computadoras y soporte remoto a los clientes."
+      },
+      {
+        "company":"Cubiq Digital",
+        "title":"Frontend developer",
+        "years":"2020 - Actualidad",
+        "description":"Desarollo web con React js"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"90%"
+      },
+      {
+        "name":"HTML CSS",
+        "level":"85%"
+      },
+      {
+        "name":"Kotlin",
+        "level":"85%"
+      },
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"Node js",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"45%"
+      },
+      {
+        "name":"SQL",
+        "level":"35%"
+      },
+      {
+        "name":"C++",
+        "level":"35%"
+      }
+    ]
+  }
+}
